@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Michael and I enjoy learning new ways to code. Get to know more about me by going on website.
+
 <!--
 **mbarto202/mbarto202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
